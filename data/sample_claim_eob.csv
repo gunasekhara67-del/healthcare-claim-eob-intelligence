@@ -1,0 +1,6 @@
+claim_id,claim_status,denial_reason,payer,payment_amount
+CLM1001,Paid,None,Payer A,1250
+CLM1002,Denied,Authorization required,Payer B,0
+CLM1003,Pending,None,Payer A,500
+CLM1004,Rejected,Invalid member ID,Payer C,0
+CLM1005,Paid,None,Payer B,1800
